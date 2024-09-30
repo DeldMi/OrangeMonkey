@@ -10,8 +10,7 @@
 // @homepageURL https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/main.user.js
 // @updateURL    https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/tampermonkey/print-article.meta.js
 // @downloadURL  https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/tampermonkey/print-article.user.js
-// @icon         https://sf-helper.com/img/icon_16.png
-// @icon64       https://sf-helper.com/img/icon_64.png
+// @icon         https://aulas.descomplica.com.br/graduacao/img/Logo_D.svg
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
