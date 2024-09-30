@@ -2,15 +2,15 @@
 // @name         Imprimir texto da aula da Descomplica
 // @namespace    http://andre.a3gs.com.br
 // @homepage     http://andre.a3gs.com.br
-// @version      1.12
+// @version      1.13
 // @date         2024-09-30
 // @author       André Felipe
 // @description  Add print button to open article in a new window with CSS for printing, using MutationObserver.
 // @match        *://aulas.descomplica.com.br/*
 // @icon         https://aulas.descomplica.com.br/graduacao/img/Logo_D.svg
-// @homepageURL https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/main.user.js
-// @updateURL    https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/tampermonkey/print-article.meta.js
-// @downloadURL  https://raw.githubusercontent.com/DeldMi/impimirDescomprica/refs/heads/main/tampermonkey/print-article.user.js
+// @homepageURL  https://raw.githubusercontent.com/DeldMi/OrangeMonkey/refs/heads/main/printDescompricaText/main.user.js
+// @updateURL    https://raw.githubusercontent.com/DeldMi/OrangeMonkey/refs/heads/main/printDescompricaText/tampermonkey/print-article.meta.js
+// @downloadURL  https://raw.githubusercontent.com/DeldMi/OrangeMonkey/refs/heads/main/printDescompricaText/tampermonkey/print-article.user.js
 // @include     http://*
 // @include     https://*
 // @run-at      document-end
