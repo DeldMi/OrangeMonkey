@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Print Article with Button (DOM Observer)
-// @namespace    http://tampermonkey.net/
-// @version      0.10
-// @description  Add print button to open article in a new window with CSS for printing, using MutationObserver.
-// @author       André Felipe
-// @match        *://aulas.descomplica.com.br/*
-// @grant        GM_xmlhttpRequest
-// @grant        none
-// ==/UserScript==
 
 // Configuração3
 const nameOfButton = 'Print';
